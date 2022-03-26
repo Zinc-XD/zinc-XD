@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #Males gw encrypt Tod jika mau recode, recode aja
 #Tapi ngotak dikit jangan Lo jual belikan sc ini kontol
-#Code by YayanXD 
+#Code by zinc-XD
 #Created 05-07-2020
 #My facebook (https://www.facebook.com/KM39453)
 
